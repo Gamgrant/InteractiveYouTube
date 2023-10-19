@@ -14,7 +14,8 @@ def download_youtube_audio(url, file_path="temp_audio.wav"):
     # Optionally, remove the original downloaded file to save space
     os.remove(temp_file)
 
-openai.api_key = "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"
+# paste your openAI key here!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+openai.api_key = 
 
 def transcribe_audio(file_path):
     print("Attempting to transcribe:", file_path)
