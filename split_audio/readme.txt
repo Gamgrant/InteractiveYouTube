@@ -1,0 +1,1 @@
+Keep split_audio folder since all the videos will be stored here
